@@ -1,4 +1,4 @@
-# Playground frontend
+# playground-frontend
 
 ## Installation
 ```bash
